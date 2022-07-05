@@ -1,0 +1,253 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+
+/*  Section One CSS Code Starts From Here */
+
+.section-one{
+    /* background-image: url(images/Flood\ 1\ Edit.jpg); */
+    background-image: url(images/Flood\ 3.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 800px;
+    margin-top: -50px;
+    margin-left: 0px;
+    margin-right: -50px;
+}
+
+.section-one a{
+    text-decoration: none;
+    color: white;
+}
+
+.section-one h1{
+    font-size: 80px;
+    /* color: white; */
+    /* color: #EAC42C; */
+    color: #E1A631;
+    font-weight: bold;
+    text-align: center;
+}
+
+.section-one-div-1{
+    padding-top: 70px;
+    margin-left: -80px;
+}
+
+.section-one .adjust-h1{
+    margin-top: -70px;
+}
+
+.section-one-div-2{
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    margin-top: -30px;
+}
+#adjust-p{
+    margin-top: -10px;
+    padding-bottom: 20px;
+}
+
+#adjust-last-line-p{
+    margin-top: -30px;
+    padding-bottom: 30px;
+}
+
+.section-one-button{
+    padding: 10px 30px;
+    color: white;
+    font-size: 20px;
+    border-radius: 6px;
+    background-color: #F9413E;
+    
+}
+
+.section-one-button:hover{
+    /* background-color: #69B42E; */
+    background-color: #378AFA;
+    color: black;
+}
+
+/*  Section Two and Four are Same */
+/*  Section Two and Four CSS Code Starts From Here */
+
+.section-two{
+    margin-top: 100px;
+}
+.section-two h1{
+    text-align: center;
+    font-size: 38px;
+    color: black;
+}
+
+.section-two p{
+    text-align: center;
+    margin-top: -10px;
+    margin-bottom: 60px;
+}
+
+
+/*  Section Three CSS Code Starts From Here */
+
+.section-three{
+    display: flex;
+    margin-bottom: 70px;
+}
+
+.section-three h1{
+    font-size: 25px;
+}
+
+.section-three div{
+    width: 25%;
+}
+
+#section-three-div-1{
+    margin-left: 80px;
+    padding-left: 175px;
+}
+
+.section-three-adjust-div{
+    margin-left: -160px;
+    padding-right: 10px;
+}
+
+.border-h1{
+    border: 3px solid grey;
+    background-color: #D8DFD2;
+    margin-right: 190px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 40px;
+    padding-bottom: 40px; 
+}
+
+#taka-border{
+    padding-right: 10px;
+}
+
+#adjust-200-taka{
+    margin-left: 6px;
+}
+
+#taka-select-for-donation{
+    border: 2px solid red;
+    background-color: #FC9494;
+}
+
+
+/*  Section Four with Input Field Taka CSS Code Starts From Here */
+
+#input-taka{
+ text-align: center;
+ width: 70%;
+ height: 35px;
+ border: none;
+ border-bottom: 2px solid grey;
+ margin-left: 255px;
+ margin-bottom: 30px;
+
+}
+::placeholder{
+    font-size: 20px;
+}
+
+#section-four-button{
+    margin-left: 45%;
+    
+}
+
+/*  Section Five CSS Code Starts From Here */
+
+.section-five{
+    display: flex;
+    margin-left: 150px;
+    margin-bottom: 100px;
+}
+
+.section-five p{
+    text-align: justify;
+}
+
+
+
+.section-five div{
+    width: 25%;
+}
+
+#section-five-div-1{
+    background-color: #FC9494;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 20px;
+    margin-left: -37px;
+}
+
+#section-five-div-2{
+    margin-left: 50px;
+    background-color: #E7DD4B;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 20px;
+}
+
+#section-five-div-3{
+    padding-left: 30px;
+    margin-left: 50px;
+    background-color: skyblue;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 20px;
+}
+
+#food-pic-donation{
+    margin-top: 25px;
+    width: 100%;
+    border-radius: 10px;
+}
+
+#shelter-pic-donation{
+    margin-top: 25px;
+    width: 100%;
+    border-radius: 10px;
+}
+
+#education-pic-donation{
+    margin-top: 25px;
+    width: 100%;
+    border-radius: 10px;
+}
+
+
+/*  Footer Section  CSS Code Starts From Here */
+
+footer{
+    width: 100%;
+    height: 200px;
+    background-color: black;
+    text-align: center;
+}
+footer h2{
+    padding-top: 50px;
+    font-size: 25px;
+}
+#footer-span-1{
+    color: orange;
+}
+#footer-span-2{
+    color: limegreen;
+}
+
+footer p{
+    text-align: center;
+    font-size: 23px;
+    font-style: oblique;
+    margin-top: -15px;
+    color: #e44e46;
+    font-family: 'Berkshire Swash', cursive;
+}
