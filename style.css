@@ -291,7 +291,9 @@ footer p{
     width: 60%;
     height: 45px;
     margin-left: 300px;
-    background-color: #EAE8E4;
+    /* background-color: #EAE8E4; */
+    background-color: #C3C6BF;
+    margin-bottom: 30px;
 }
 .section-seven-activity h1{
     text-align: center;
@@ -301,6 +303,7 @@ footer p{
 
 .section-seven-activity h3{
     margin-left: 300px;
+    font-size: 24px;
 
 }
 
@@ -317,15 +320,77 @@ footer p{
 
 #shelter-chart{
     background-color: #F36FF9;
-    width: 60%;
+    width: 65%;
 }
 
 #medical-chart{
-    background-color: #95CD44;
+    background-color: #8cc838;
     width: 48%;
 }
 
 #education-chart{
-    background-color: #FDBF78;
+    /* background-color: #FDBF78; */
+    background-color: #e7b12b;
     width: 25%;
 }
+
+
+
+
+
+
+
+
+
+#icon-book{
+    margin-left: 1%;
+    font-size: 27px;
+    padding-bottom: 20px;
+}
+
+#education-h3{
+    display: inline;
+    padding-bottom: 100px;
+}
+
+
+
+#icon-food{
+    margin-left: 1%;
+    font-size: 27px;
+    padding-bottom: 20px;
+}
+
+#food-h3{
+    display: inline;
+    padding-bottom: 100px;
+}
+
+
+
+#icon-house{
+    margin-left: 1%;
+    font-size: 27px;
+    padding-bottom: 20px;
+}
+
+#house-h3{
+    display: inline;
+    padding-bottom: 100px;
+}
+
+
+
+#icon-medical{
+    margin-left: 1%;
+    font-size: 27px;
+    padding-bottom: 20px;
+}
+
+#medical-h3{
+    display: inline;
+    padding-bottom: 100px;
+}
+
+
+
