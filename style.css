@@ -285,6 +285,12 @@ body{
     padding: 7px 20px 7px 20px;
 }
 
+#rescue-chart{
+    background-color:#FFA96A;
+    width: 96%;
+    border-radius: 15px;
+}
+
 #food-chart{
     background-color: #378AFA;
     width: 80%;
@@ -310,29 +316,46 @@ body{
     border-radius: 15px;
 }
 
-#loading-1{
+#loading-2{
     margin-left: 95%;
     font-weight: bold;
 }
 
-#loading-2{
+#loading-3{
     margin-left: 93%;
     font-weight: bold;
 }
 
-#loading-3{
+#loading-4{
     margin-left: 92%;
     font-weight: bold;
 }
 
-#loading-4{
+#loading-5{
     margin-left: 82%;
+    font-weight: bold;
+}
+
+#loading-1{
+    margin-left: 95%;
     font-weight: bold;
 }
 
 
 
 /*  Section Seven Icons CSS Code Starts From Here */
+
+#icon-rescue{
+    margin-left: 1%;
+    font-size: 27px;
+    padding-bottom: 20px;
+}
+
+#rescue-h3{
+    display: inline;
+    padding-bottom: 100px;
+}
+
 
 #icon-book{
     margin-left: 1%;
