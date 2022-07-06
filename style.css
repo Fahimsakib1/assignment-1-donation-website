@@ -23,14 +23,14 @@ body{
 
 .section-one h1{
     font-size: 80px;
-    /* color: white; */
-    color: #FDD7FF;
+    color: white;
+    /* color: #FDD7FF; */
     font-weight: bold;
     text-align: center;
 }
 
 .section-one-div-1{
-    padding-top: 70px;
+    padding-top: 100px;
     margin-left: -80px;
 }
 
@@ -259,6 +259,7 @@ body{
 
 
 /*  Section Seven (Activity Chart) CSS Code Starts From Here */
+
 .activity-class{
     width: 60%;
     height: 45px;
@@ -266,6 +267,7 @@ body{
     /* background-color: #EAE8E4; */
     background-color: #C3C6BF;
     margin-bottom: 30px;
+    border-radius: 10px;
 }
 .section-seven-activity h1{
     text-align: center;
@@ -276,7 +278,6 @@ body{
 .section-seven-activity h3{
     margin-left: 300px;
     font-size: 24px;
-
 }
 
 .progress-chart{
@@ -287,24 +288,48 @@ body{
 #food-chart{
     background-color: #378AFA;
     width: 80%;
+    border-radius: 15px;
 }
 
 
 #shelter-chart{
     background-color: #F36FF9;
     width: 65%;
+    border-radius: 15px;
 }
 
 #medical-chart{
     background-color: #8cc838;
     width: 48%;
+    border-radius: 15px;
 }
 
 #education-chart{
-    /* background-color: #FDBF78; */
     background-color: #e7b12b;
     width: 25%;
+    border-radius: 15px;
 }
+
+#loading-1{
+    margin-left: 95%;
+    font-weight: bold;
+}
+
+#loading-2{
+    margin-left: 93%;
+    font-weight: bold;
+}
+
+#loading-3{
+    margin-left: 92%;
+    font-weight: bold;
+}
+
+#loading-4{
+    margin-left: 82%;
+    font-weight: bold;
+}
+
 
 
 /*  Section Seven Icons CSS Code Starts From Here */
@@ -361,7 +386,7 @@ body{
 
 footer{
     width: 100%;
-    height: 200px;
+    height: 220px;
     background-color: black;
     text-align: center;
 }
@@ -383,6 +408,11 @@ footer p{
     margin-top: -15px;
     color: #e44e46;
     font-family: 'Berkshire Swash', cursive;
+}
+
+#copyright{
+    color: #65CBF7;
+    font-size: 18px;
 }
 
 
