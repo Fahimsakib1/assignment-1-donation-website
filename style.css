@@ -25,8 +25,8 @@ body{
 .section-one h1{
     font-size: 80px;
     /* color: white; */
-    /* color: #EAC42C; */
-    color: #E1A631;
+    /* color: #E1A631; */
+    color: #FDD7FF;
     font-weight: bold;
     text-align: center;
 }
@@ -54,6 +54,8 @@ body{
 #adjust-last-line-p{
     margin-top: -30px;
     padding-bottom: 30px;
+    font-size: larger;
+    color: #FFC100;
 }
 
 .section-one-button{
@@ -146,7 +148,7 @@ body{
 #input-taka{
  text-align: center;
  width: 70%;
- height: 35px;
+ height: 45px;
  border: none;
  border-bottom: 2px solid grey;
  margin-left: 255px;
@@ -155,6 +157,7 @@ body{
 }
 ::placeholder{
     font-size: 20px;
+    padding-left: 20px;
 }
 
 #section-four-button{
@@ -251,3 +254,39 @@ footer p{
     color: #e44e46;
     font-family: 'Berkshire Swash', cursive;
 }
+
+
+/*   Section Six  CSS Code Starts From Here */
+
+.section-six-email{
+    margin-bottom: 100px;
+    height: 150px;
+    padding-top: 50px;
+}
+
+.section-six-email div{
+    width: 60%;
+    background-color: #FFE7B6;
+    margin-left: 20%;
+    height: 200px;
+    margin-top: -50px;
+}
+
+#email-input-field{
+    width: 35%;
+    height: 48px;
+    background-color: #EAE8E4;
+    margin-left: 180px;
+    margin-top: 75px;
+}
+
+#section-six-email-button{
+    color: white;
+    background-color: red;
+    width: 20%;
+    height: 53px;
+    font-size: 17px;
+    background-position: center;
+}
+
+
