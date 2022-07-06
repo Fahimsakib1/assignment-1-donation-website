@@ -162,6 +162,7 @@ body{
     
 }
 
+
 /*  Section Five CSS Code Starts From Here */
 
 .section-five{
@@ -264,7 +265,6 @@ body{
     width: 60%;
     height: 45px;
     margin-left: 300px;
-    /* background-color: #EAE8E4; */
     background-color: #C3C6BF;
     margin-bottom: 30px;
     border-radius: 10px;
@@ -403,6 +403,7 @@ body{
     display: inline;
     padding-bottom: 100px;
 }
+
 
 
 /*  Footer Section  CSS Code Starts From Here */
