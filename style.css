@@ -7,7 +7,6 @@ body{
 /*  Section One CSS Code Starts From Here */
 
 .section-one{
-    /* background-image: url(images/Flood\ 1\ Edit.jpg); */
     background-image: url(images/Flood\ 3.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
@@ -25,7 +24,6 @@ body{
 .section-one h1{
     font-size: 80px;
     /* color: white; */
-    /* color: #E1A631; */
     color: #FDD7FF;
     font-weight: bold;
     text-align: center;
@@ -68,10 +66,10 @@ body{
 }
 
 .section-one-button:hover{
-    /* background-color: #69B42E; */
     background-color: #378AFA;
     color: black;
 }
+
 
 /*  Section Two and Four are Same */
 /*  Section Two and Four CSS Code Starts From Here */
